@@ -1,0 +1,50 @@
+﻿anno,semestre,regione,provincia,comune,codice_zona,fascia_codice,fascia,zona_omi,destinazione,tipologia,stato_conservativo,prezzo_min_mq,prezzo_max_mq,affitto_medio_mq_mese
+2025,2,Sicilia,Palermo,Palermo,B20,B,Centrale,XX SETT-CORLEO-POLITEAMA-VILLAREALE-R.SETTIMO-CAVOUR-ROMA,Residenziale,Abitazioni civili,Normale,1950,2850,6.8
+2025,2,Sicilia,Palermo,Palermo,B21,B,Centrale,XX SETT-LA FARINA-CUSMANO-LATINI-S.F.DA PAOLA-P.UNGHERIA,Residenziale,Abitazioni civili,Normale,1500,2250,6.0
+2025,2,Sicilia,Palermo,Palermo,E3,E,Suburbana,R.MARGHERITA-MONDELLO VALDESI-TOLOMEA-M.ALLIATA-MONDELLO PAESE,Residenziale,Abitazioni civili,Normale,1650,2250,4.9
+2025,2,Sicilia,Palermo,Palermo,B23,B,Centrale,VIA DELLE CROCI-CORLEO-P.STURZO-U.BASSI ALBANESE-ORSINI,Residenziale,Abitazioni civili,Normale,1550,2150,5.5
+2025,2,Sicilia,Palermo,Palermo,B2,B,Centrale,CRISPI-UCCIARDONE-PORTO,Residenziale,Abitazioni civili,Normale,1400,2100,4.5
+2025,2,Sicilia,Palermo,Palermo,B22,B,Centrale,VIA ROMA-CAVOUR- P.PE DI SCORDIA- E. AMARI,Residenziale,Abitazioni civili,Normale,1400,2050,5.2
+2025,2,Sicilia,Palermo,Palermo,B12,B,Centrale,MASSIMO-PIGNATELLI ARAGONA-GOETHE-V.E.ORLANDO-AMICO,Residenziale,Abitazioni civili,Normale,1350,2000,4.9
+2025,2,Sicilia,Palermo,Palermo,B14,B,Centrale,VITTORIO EMANUELE-MAQUEDA-ROMA,Residenziale,Abitazioni civili,Normale,1400,2000,7.5
+2025,2,Sicilia,Palermo,Palermo,C1,C,Semicentrale,SCIUTI-NOTARBARTOLO-VILLABIANCA-DE GASPERI-GIOTTO-NEBRODI-GALILEI,Residenziale,Abitazioni civili,Normale,1550,1950,7.0
+2025,2,Sicilia,Palermo,Palermo,B16,B,Centrale,MAQUEDA-VITTORIO EMANUELE-ROMA-CAVOUR,Residenziale,Abitazioni civili,Normale,1300,1850,4.7
+2025,2,Sicilia,Palermo,Palermo,D1,D,Periferica,CIRCONVALLAZIONE-V.NUOVA-QUARTIERI-NISCEMI-S.LORENZO-VILLA SOFIA-V.SARDEGNA-BELGIO-STRASBURGO,Residenziale,Abitazioni civili,Normale,1450,1850,6.0
+2025,2,Sicilia,Palermo,Palermo,D9,D,Periferica,THAON DE REVEL-CARD. RAMPOLLA-PAPA SERGIO I-ARENELLA,Residenziale,Abitazioni civili,Normale,1300,1800,4.3
+2025,2,Sicilia,Palermo,Palermo,B18,B,Centrale,CAVOUR-ROMA-VITTORIO EMANUELE-CRISPI,Residenziale,Abitazioni civili,Normale,1300,1700,4.0
+2025,2,Sicilia,Palermo,Palermo,B19,B,Centrale,VITTORIO EMANUELE-FORO ITALICO-LINCOLN-ROMA,Residenziale,Abitazioni civili,Normale,1250,1700,4.4
+2025,2,Sicilia,Palermo,Palermo,E14,E,Suburbana,PALLAVICINO-S.FILIPPO NERI-F.DO PATTI-TRAPANI PESCIA,Residenziale,Abitazioni civili,Normale,1300,1700,4.1
+2025,2,Sicilia,Palermo,Palermo,E15,E,Suburbana,SAN LORENZO,Residenziale,Abitazioni civili,Normale,1150,1650,4.8
+2025,2,Sicilia,Palermo,Palermo,E2,E,Suburbana,ADDAURA,Residenziale,Abitazioni civili,Normale,1200,1650,4.4
+2025,2,Sicilia,Palermo,Palermo,C3,C,Semicentrale,IMP.RE FEDERICO-AUTONOMIA SICILIANA-CANTIERI-ACQUASANTA,Residenziale,Abitazioni civili,Normale,1250,1600,6.5
+2025,2,Sicilia,Palermo,Palermo,D10,D,Periferica,DI BLASI-RUGGIERI-DA VINCI-ANGELICO-BADIA-MICHELANGELO-MANDALA,Residenziale,Abitazioni civili,Normale,1150,1550,4.6
+2025,2,Sicilia,Palermo,Palermo,D13,D,Periferica,VIA NAVE- RISERVA REALE-PARUTA- DUE VANELLE-VIA PALMERINO- REGIONE SICILIA,Residenziale,Abitazioni civili,Normale,1250,1550,4.5
+2025,2,Sicilia,Palermo,Palermo,B13,B,Centrale,MAQUEDA-V.EMANUELE-BONELLO-AMEDEO-SAN VITO,Residenziale,Abitazioni civili,Normale,1100,1500,4.1
+2025,2,Sicilia,Palermo,Palermo,E20,E,Suburbana,BADIA-ANGELICO-DA VINCI-RUGGIERI-CASTELLANA-MICHELANGELO,Residenziale,Abitazioni civili,Normale,1100,1500,4.8
+2025,2,Sicilia,Palermo,Palermo,E21,E,Suburbana,BAIDA-P.RIDENTE-BOCCADIFALCO,Residenziale,Abitazioni civili,Normale,1000,1500,4.3
+2025,2,Sicilia,Palermo,Palermo,E5,E,Suburbana,CARDILLO-LANZA DI SCALEA-OLIMPO,Residenziale,Abitazioni civili,Normale,1150,1500,4.2
+2025,2,Sicilia,Palermo,Palermo,B17,B,Centrale,MAQUEDA-VITTORIO EMANUELE-ROMA-GIULIO CESARE,Residenziale,Abitazioni civili,Normale,1000,1450,4.1
+2025,2,Sicilia,Palermo,Palermo,B3,B,Centrale,REGINA MARGHERITA-RE FEDERICO-FINOCCHIARO APRILE-MARCO POLO,Residenziale,Abitazioni civili,Normale,1000,1450,4.2
+2025,2,Sicilia,Palermo,Palermo,C11,C,Semicentrale,PITRE-CAPPUCCINI-PISANI-ALTOFONTE-REGIONE SICILIANA,Residenziale,Abitazioni civili,Normale,1150,1450,4.4
+2025,2,Sicilia,Palermo,Palermo,D14,D,Periferica,DI BLASI- R. SICILIANA-PITRE- AEREOPORTO BOCCADIFALCO,Residenziale,Abitazioni civili,Normale,1000,1450,4.0
+2025,2,Sicilia,Palermo,Palermo,E11,E,Suburbana,SFERRACAVALLO PAESE-BAIA DEL CORALLO,Residenziale,Abitazioni civili,Normale,1000,1450,4.1
+2025,2,Sicilia,Palermo,Palermo,E6,E,Suburbana,PARCO DEI PRINCIPI-UGO LA MALFA-V.GIOE,Residenziale,Abitazioni civili,Normale,1000,1450,3.8
+2025,2,Sicilia,Palermo,Palermo,B15,B,Centrale,VITTORIO EMANUELE-MAQUEDA-TUKORY-RE RUGGERO,Residenziale,Abitazioni civili,Normale,1050,1400,3.8
+2025,2,Sicilia,Palermo,Palermo,C12,C,Semicentrale,LANCIA DI BROLO-C.PARISIO-NOCE-STAZIONE LOLLI,Residenziale,Abitazioni civili,Normale,1100,1400,4.3
+2025,2,Sicilia,Palermo,Palermo,C5,C,Semicentrale,PERPIGNANO-SICCHERIA-CAPPUCCINI,Residenziale,Abitazioni civili,Normale,1050,1400,5.8
+2025,2,Sicilia,Palermo,Palermo,D11,D,Periferica,ZONA DI ESPANSIONE TRA VIA ALTOFONTE E VIA ROCCELLA,Residenziale,Abitazioni civili,Normale,960,1400,3.7
+2025,2,Sicilia,Palermo,Palermo,E19,E,Suburbana,CRUILLAS-BRUNELLESCHI-TRABUCCO-CEP-BORGO NUOVO-MANGO,Residenziale,Abitazioni civili,Normale,1100,1400,5.6
+2025,2,Sicilia,Palermo,Palermo,E23,E,Suburbana,OSPEDALE INGRASSIA - MOLARA-PAGLIARELLI-RISERVA REALE-VILLA NAVE,Residenziale,Abitazioni civili,Normale,950,1400,4.3
+2025,2,Sicilia,Palermo,Palermo,E4,E,Suburbana,PARTANNA MONDELLO-TOMMASO NATALE,Residenziale,Abitazioni civili,Normale,1050,1400,4.0
+2025,2,Sicilia,Palermo,Palermo,C4,C,Semicentrale,E.BASILE-MONTEGRAPPA-CLINICHE-STAZIONE C.LE-ORTO BOTANICO,Residenziale,Abitazioni civili,Normale,1000,1350,7.0
+2025,2,Sicilia,Palermo,Palermo,D12,D,Periferica,BONAGIA,Residenziale,Abitazioni civili,Normale,940,1350,3.8
+2025,2,Sicilia,Palermo,Palermo,E1,E,Suburbana,FAVORITA-MONTE PELLEGRINO-VERGINE MARIA,Residenziale,Abitazioni civili,Normale,950,1350,3.8
+2025,2,Sicilia,Palermo,Palermo,E22,E,Suburbana,VILLAGRAZIA-ALOI-CHIAVELLI-FALSOMIELE-BRASCA,Residenziale,Abitazioni civili,Normale,1000,1350,3.7
+2025,2,Sicilia,Palermo,Palermo,D3,D,Periferica,FALSOMIELE-ORETO-GUADAGNA-BRANCACCIO-FONDO BAGNASCO,Residenziale,Abitazioni civili,Normale,1000,1300,4.5
+2025,2,Sicilia,Palermo,Palermo,D4,D,Periferica,S.ERASMO-ROMAGNOLO-SPERONE-SETTECANNOLI,Residenziale,Abitazioni civili,Normale,950,1300,5.0
+2025,2,Sicilia,Palermo,Palermo,B4,B,Centrale,DOSSUNA-COLONNA ROTTA-ALBERTO AMEDEO,Residenziale,Abitazioni civili,Normale,880,1250,3.6
+2025,2,Sicilia,Palermo,Palermo,B7,B,Centrale,BORGO VECCHIO,Residenziale,Abitazioni civili,Normale,900,1250,3.4
+2025,2,Sicilia,Palermo,Palermo,C7,C,Semicentrale,ZISA-GUERRAZZI-CARDINALE TOMASI,Residenziale,Abitazioni civili,Normale,900,1250,3.7
+2025,2,Sicilia,Palermo,Palermo,E9,E,Suburbana,ACQUA DEI CORSARI -GALLETTI-FIGURELLA,Residenziale,Abitazioni civili,Normale,880,1250,3.5
+2025,2,Sicilia,Palermo,Palermo,D8,D,Periferica,STAZIONE BRANCACCIO-TORRELUNGA-GIAFAR-CONTE FEDERICO-PECORAINO,Residenziale,Abitazioni civili,Normale,770,1150,3.2
+2025,2,Sicilia,Palermo,Palermo,C10,C,Semicentrale,RIONE DANISINNI,Residenziale,Abitazioni civili,Normale,750,1050,3.0
