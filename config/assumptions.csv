@@ -1,0 +1,26 @@
+parameter,value,unit,applies_to,status,source_or_note
+cedolare_str_first_unit,0.21,share of gross rent,short_term,verified,L. 199/2025 art.1 c.17 - first short-let unit
+cedolare_str_second_unit,0.26,share of gross rent,short_term,verified,L. 199/2025 art.1 c.17 - second short-let unit; business presumption from 3rd unit
+cedolare_ltr,0.21,share of gross rent,long_term,verified,Cedolare secca canone libero; 10% canone concordato excluded from v1
+airbnb_host_fee,0.155,share of booking subtotal,short_term,verified,Airbnb host-only fee mandatory for Italian hosts from 13 Oct 2026 (Smoobu); replaces 3% split fee
+cleaning_cost_per_stay,45,EUR per stay,short_term,estimate,To verify with 2-3 Palermo cleaning services (incl. linen)
+avg_length_of_stay,3,nights,short_term,estimate,Used to convert nights into number of stays; check against minimum_nights distribution
+consumables_per_night,3,EUR per night,short_term,estimate,Toiletries / coffee / welcome kit
+utilities_str,2000,EUR per year per unit,short_term,estimate,Electricity / gas / water / internet / TARI paid by owner
+utilities_ltr,0,EUR per year per unit,long_term,assumption,Paid by tenant
+condominio_owner,900,EUR per year per unit,both,estimate,Long-term: tenant pays ordinary share - see condominio_ltr_owner_share
+condominio_ltr_owner_share,0.3,share,long_term,assumption,Owner keeps extraordinary/owner share
+imu_rate,0.0106,share of IMU base,both,verified,Palermo 10.6 per mille second homes (Delibera CC 391/2024; confirm 2026 on MEF portal)
+imu_base_multiplier,168,rendita x 1.05 x 160,both,verified,IMU base = rendita catastale x 1.05 x 160 (category A)
+rendita_catastale_per_m2,5.5,EUR per m2,both,estimate,Placeholder for A/2-A/3 in Palermo; to replace with typical visura values
+maintenance_rate,0.005,share of purchase price per year,both,estimate,Ordinary maintenance + wear; STR could be higher (sensitivity)
+insurance,250,EUR per year per unit,both,estimate,Home + third-party liability
+vacancy_ltr,0.08,share of year,long_term,estimate,~1 month/year between tenants or arrears
+furnishing_str,12000,EUR one-off per unit,short_term,estimate,Furniture + equipment to Airbnb standard
+cin_safety_setup,200,EUR one-off per unit,short_term,estimate,Gas/CO detectors + extinguisher required for CIN
+registro_rate,0.09,share of valore catastale,both,verified,Purchase from private seller - second home; min EUR 1000 (idealista)
+valore_catastale_multiplier,126,rendita x 1.05 x 120,both,verified,Prezzo-valore rule base for registro
+fixed_purchase_taxes,100,EUR one-off,both,verified,Imposta ipotecaria 50 + catastale 50
+notary_fee,2000,EUR one-off per deed,both,estimate,Idealista range 1500-2000
+agency_fee_rate,0.03,share of purchase price,both,estimate,Buyer-side commission typical 3% + VAT; check local practice
+financing,cash,,both,assumption,No mortgage in v1 - investor buys cash
